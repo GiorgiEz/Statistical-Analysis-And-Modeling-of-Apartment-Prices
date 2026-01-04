@@ -1,1 +1,1 @@
-# Statistical-Analysis-And-Modeling-of-Apartment-Prices
+# Statistical Analysis And Modeling of Apartment Prices
